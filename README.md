@@ -23,6 +23,8 @@ Utilisation de ``px`` à la place de ``rem``<br>
 Non responsive <br>
 Absence de reset <br>
 
+---
+
 ## JS
 
 Absence du ``DOM`` qui permet le chargement du JS en premier sur la page <br> 
